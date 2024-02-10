@@ -5,7 +5,7 @@ I'm Ekta, a Computer Science student on a mission to turn caffeine into code. We
 ## About Me 🎓
 
 - 🚀 I'm a passionate coder exploring the vast galaxy of algorithms, data structures, and everything in between.
-- 📚 Currently sailing through the seas of academia at Jabalpur Engineering Colleg.
+- 📚 Currently sailing through the seas of academia at Jabalpur Engineering College.
 - 🌐 My interests range from web development to machine learning, and I'm always up for a good tech challenge.
 
 - Let's Connect! 🌐
